@@ -7,7 +7,7 @@
 }
 .navbar{
     background-color: black;
-    height: 70px;
+    height: 80px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -100,12 +100,13 @@
         margin: 0;
         width: 100%;
         position: absolute;
-        /* top: -1000px;
-        opacity: 0; */
+        top: -1000px;
+        opacity: 0; 
         transition: all 0.5s ease;
         height: 60vh;
         z-index: -1;
     }
+
     .navbar__menu.active{
         background: black;
         top: 100%;
@@ -149,8 +150,21 @@
         justify-content: center;
         align-items: center;
         width: 80%;
+        height: 80%;
+        margin: 0;
     }
+     .navbar__toggle .bar{
+        display: block;
+        cursor: pointer;
+     }
      
-
+#menu.is-active .bar:nth-child(2){ 
+opacity: 0;}
+#menu.is-active .bar:nth-child(1){
+transform: translateY(8px) rotate(45deg);
  }
+ #menu.is-active .bar:nth-child(3){
+    transform: translateY(-8px) rotate(-45deg);
+     }
  
+}
