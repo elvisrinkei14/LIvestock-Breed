@@ -156,6 +156,8 @@
      .navbar__toggle .bar{
         display: block;
         cursor: pointer;
+
+
      }
      
 #menu.is-active .bar:nth-child(2){ 
@@ -167,4 +169,18 @@ transform: translateY(8px) rotate(45deg);
     transform: translateY(-8px) rotate(-45deg);
      }
  
+}
+
+/* Hero section */
+.main__container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    height: 90vh;
+    z-index: 1;
+    width: 100%;
+    max-width: 1300px;
+    padding: 0 50px;
 }
