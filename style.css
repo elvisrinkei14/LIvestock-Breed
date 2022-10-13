@@ -240,12 +240,27 @@ margin-right: 70px;
 .main__btn:hover::after{
     width: 100%;
 }
-.box2 img{
+.box2{
+    text-align: center;
+    justify-content: center;
+}
+#sahiwal img{
     width: 300px;
     margin-left: 0px;
     margin-right: 0px;
 }
-.box2 p{
+#sahiwal p{
     margin-left: 0;
     margin-right: 20px;
+
+}
+#freshian img{
+    width: 300px;
+    margin-left: 0;
+    margin-right:0p;
+}
+#ayrshire img{
+    width: 300px;
+    text-align: center;
+    justify-content: center;
 }
