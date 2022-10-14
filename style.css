@@ -29,6 +29,17 @@
     padding: 0 50px;
 }
 
+#img__logo{
+    border-radius: 45px;
+    width: 70px;
+    justify-content: center;
+    text-align: center;
+}
+#logo_n{
+    margin-right: 38%;
+    background-color: white;
+    
+}
 #navbar__logo{
     background-color: white;
     background-image: linear-gradient(to top, red orange 100%);
@@ -273,12 +284,17 @@ text-align: center;
     justify-content: center;
 }
 .box3 h1{
-text-align: center;
+text-align: justify
 }
 .box3 img{
    
     padding-left: 50px;
     padding-right: 32px;
+}
+#head{
+    text-align: center;
+    justify-content: center;
+    margin-top: 30px;
 }
 #dorper{
     float: left;
@@ -286,7 +302,7 @@ margin-top: 5%;
 }
 #red{
     float: right;
-    margin-top: 5%;
+    margin-top: 3%;
     margin-left: 50px;
 }
 #dorper img{
@@ -299,6 +315,11 @@ margin-top: 5%;
 }
 #red p{
     text-align: justify;
+    margin-top: 2%;
+
+}
+#red h2{
+margin-top: 5%;
 }
 footer{
     margin-top: 20px;
@@ -313,6 +334,7 @@ footer{
 }
 #box1 h1{
     text-align: center;
+    text-align: justify;
 }
 #somali{
     margin-top: 70px;
