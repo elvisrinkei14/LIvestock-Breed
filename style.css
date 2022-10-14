@@ -38,7 +38,7 @@
 #logo_n{
     margin-right: 38%;
     background-color: white;
-    
+
 }
 #navbar__logo{
     background-color: white;
@@ -254,21 +254,29 @@ margin-right: 70px;
 .box2{
     
     background-color: none;
+    display: flex;
+    margin-top: 15%;
 }
 .box2 h1{
     text-align: center;
+    margin-top: -11%;
+    justify-content: center;
+
 }
 #sahiwal{
     float: left;
+    text-align: justify;
+    margin-right: 30%;
+    
 }
 #sahiwal img{
     width: 300px;
 }
-#sahiwal p{
-   
-}
 #jersey{
-    float: right;
+    margin-right: 160px;
+    text-align: justify;
+    text-align: center;
+    justify-content: center;
 }
 #jersey img{
     width: 300px;}
