@@ -1,17 +1,19 @@
-# 
-# Name of the Project
- *****LIvestock-Breed
- ### Author : Name Date
- ****Elvis Rinkei
- ## Project Description
+ Name of the Project
+ LIvestock-Breed
+Author : Name Date
+ Elvis Rinkei  14/10/2022
+ Project Description
  This project is about a livestock breeds website which has the purpose of educating the livestock keepers in 
  semi arid areas about the need for them to change their livestock breeds to the ones that have value and can 
  actually impact their lives in a positive way.
  
- ## SCREENSHOTS
- - link 1
- - link 2
+ SCREENSHOTS
  
+ - link 1![Screenshot from 2022-10-15 15-54-17](https://user-images.githubusercontent.com/111880845/195987536-5b843fb5-e3b2-41f7-8ccf-016634b4![Screenshot from 2022-10-15 15-57-15](https://usere78a.png)-images.githubusercontent.com/111880845/195987633-263c0521-2f51-4d97-bda2-8731f18478a2.png)
+
+
+ - link 2
+ ********
  ## SetUp Instruction
  ### Requirements
  * [Lang](lang Url)
@@ -22,7 +24,8 @@
  * Fork the repo
  - Create a new branch in your terminal (git checkout -b improve-feature)
  - Install the prerequisites
- - Make appropriate changes in file(s)
+ - Make appropriate changes in file(s)![Screenshot from 2022-10-15 15-54-17](https://user-images.githubusercontent.com/111880845/195987513-a35400da-4a8d-49b1-ae8d-64a096c17c3f.png)
+
  - Run the server to see the changes
  - Add the changes and commit them (git commit -am "Improve App")
  - Push to the branch (git push origin improve-app)
@@ -45,12 +48,14 @@
  *****
  ## Technologies Used
  1. HTML
- 2. HTML
- 3. CSS
- 4. JavaScript
+ 2. MdBootstrap
+ 3. HTML
+ 4. CSS
+ 5. JavaScript
  *****
  ## Contact Information
- * Email :elviskores14@gmail.com
+ * Email : example@gmail.com
+ *****elviskores14@gmail.com
  ## [License](LICENSE)
  MIT License
  Copyright (c) YEAR Author
