@@ -12,4 +12,11 @@ countapi.visits().then((result) => {
     console.log(result.value);
   });
 
+  countapi.visits('global').then((result) => {
+    console.log(result.value);
+  });
+  import countapi from 'countapi-js';
 
+  countapi.visits().then((result) => {
+    console.log(result.value);
+});

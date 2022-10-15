@@ -257,9 +257,14 @@ margin-right: 70px;
     display: flex;
    text-align: center;
    margin-right: 1940px;
+   margin-top: 4%;
 }
-.box h1{
-    margin-top: 3%;
+#boxx{
+    text-align: center;
+    justify-content: center;
+}
+.box2 h1{
+    margin-top: -40%;
     text-align: center;
     justify-content: center;
 }
@@ -281,6 +286,7 @@ margin-right: 70px;
 #jersey img{
     width: 300px;
 margin-left: 220px;
+margin-top: 2%;
 }
 
     
@@ -360,7 +366,7 @@ footer{
     text-align: center;
 }
 #somali img{
-    width: 400px;
+    width: 380px;
     margin-top: 3%;
 
 }
