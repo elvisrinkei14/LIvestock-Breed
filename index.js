@@ -20,3 +20,4 @@ countapi.visits().then((result) => {
   countapi.visits().then((result) => {
     console.log(result.value);
 });
+
