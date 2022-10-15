@@ -11,7 +11,7 @@
  ## SCREENSHOTS
  - link 1
  - link 2
- ********
+ 
  ## SetUp Instruction
  ### Requirements
  * [Lang](lang Url)
@@ -45,14 +45,12 @@
  *****
  ## Technologies Used
  1. HTML
- 2. MdBootstrap
- 3. HTML
- 4. CSS
- 5. JavaScript
+ 2. HTML
+ 3. CSS
+ 4. JavaScript
  *****
  ## Contact Information
- * Email : example@gmail.com
- *****elviskores14@gmail.com
+ * Email :elviskores14@gmail.com
  ## [License](LICENSE)
  MIT License
  Copyright (c) YEAR Author
