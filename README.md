@@ -8,12 +8,10 @@ Author : Name Date
  actually impact their lives in a positive way.
  
  SCREENSHOTS
+ ![Screenshot from 2022-10-15 15-54-17](https://user-images.githubusercontent.com/111880845/195987703-78e2d250-6af2-4966-afb0-c086c8a8d0f0.png)
+![Screenshot from 2022-10-15 15-57-15](https://user-images.githubusercontent.com/111880845/195987711-6dfd0d9c-9a62-41a6-80d3-ba64c7cd3954.png)
+
  
- - link 1![Screenshot from 2022-10-15 15-54-17](https://user-images.githubusercontent.com/111880845/195987536-5b843fb5-e3b2-41f7-8ccf-016634b4![Screenshot from 2022-10-15 15-57-15](https://usere78a.png)-images.githubusercontent.com/111880845/195987633-263c0521-2f51-4d97-bda2-8731f18478a2.png)
-
-
- - link 2
- ********
  ## SetUp Instruction
  ### Requirements
  * [Lang](lang Url)
